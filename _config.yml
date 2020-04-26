@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Ali Hesham"
-  avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio-image.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I'm a computer engineer who's a tech savvy and want to make people life intersting by coding"
   location         : "Cairo, EG"
   email            :
